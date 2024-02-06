@@ -1,8 +1,11 @@
 ---
-title: Home
 id: home
-template: home
 blueprint: pages
+title: 'Prva stran'
+template: home
+author: f524ad09-d6aa-4178-85d9-ccee33ddce72
+updated_by: f524ad09-d6aa-4178-85d9-ccee33ddce72
+updated_at: 1665770479
 ---
 ## Welcome to your new brand Statamic site!
 
